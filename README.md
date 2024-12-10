@@ -1,4 +1,4 @@
-# Clase Abtracta
+# Clase Abstracta
 
 - La abstracción de datos es el proceso de ocultar ciertos detalles y mostrar solo la información esencial al usuario.
 - La abstracción se puede lograr con clases abstractas o interfaces (sobre las que aprenderá más en el próximo capítulo).
